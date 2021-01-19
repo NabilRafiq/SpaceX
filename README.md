@@ -1,4 +1,4 @@
-# SpaceX Launch Stats
+# SpaceX App
 
 > React, GraphQL, Apollo app that uses the SpaceX API to display launches
 
@@ -28,8 +28,7 @@ cd client && npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Nabeel
 
 ### Version
 
